@@ -5,7 +5,7 @@ public class AppPractice {
 	public void addData(String message) {
 		System.out.println("---passed value is-------: "+ message);
 		if (message != null && message.equalsIgnoreCase("madan")){
-			System.out.println("-----Welcome to Git-----");
+			System.out.println("-----Welcome to Git again-----");
 		}
 	
 	}
